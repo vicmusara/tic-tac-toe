@@ -1,0 +1,1 @@
+This setup provides a foundation for a Tic Tac Toe game, with separate modules for the game logic, gameboard, player objects, and the display controller. The game logic handles the game state, while the display controller manages interaction with the DOM.
